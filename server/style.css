@@ -1,0 +1,191 @@
+/*LOGIN PAGE*/
+#loginbox
+{
+border-style:solid;	
+}
+
+/*MY PAGE*/
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 13px;
+}
+#wrapper { 
+ margin: 0 auto;
+ width: 1130px;	
+ }
+#header {
+ color: #333;
+ width: 1108px;
+ float: left;
+ padding: 10px;
+ border: 1px solid #ccc;
+ height: 100px;
+ margin: 10px 0px 5px 0px;
+ background: #BD9C8C;
+}
+#leftcolumn { 
+ color: #333;
+ border: 1px solid #ccc;
+ background: #F2F2E6;
+ margin: 0px 5px 5px 0px;
+ padding: 10px;
+ height: 670px;
+ width: 678px;
+ float: left;
+}
+#leftcolumn2
+{
+color: #333;
+ border: 1px solid #ccc;
+ background: #F2F2E6;
+ height: 670px;
+ width: 300px;
+ float: right;
+
+}
+
+#rightcolumn { 
+ float: right;
+ color: #333;
+ border: 1px solid #ccc;
+ background: #E7DBD5;
+ margin: 0px 0px 5px 0px;
+ padding: 10px;
+ height: 670px;
+ width: 380px;
+ display: inline;
+ position: relative;
+}
+#logout
+{
+margin-top:20px;
+float:right;
+font-size:8px;
+}
+#viewprop
+{
+margin-top:35px;
+float:left;
+height:30px;
+position:relative;
+border:solid;
+}
+
+#buyprop
+{
+margin-top:35px;
+float:left;
+height:30px;
+position:relative;
+border:solid;
+}
+
+#sellprop
+{
+margin-top:35px;
+float:left;
+height:30px;
+position:relative;
+
+border:solid;
+
+}
+#initial
+{
+margin-top:35px;
+float:left;
+height:30px;
+position:relative;
+
+border:solid;
+
+
+}
+a
+{
+text-decoration:none;
+color:black;
+}
+/*INITIAL PAGE*/
+#left
+{
+width:55%;
+height:700px;
+background:white;
+float:left;
+margin-left:50px;
+margin-top:25px;
+}
+
+#right
+{
+width:30%;
+height:700px;
+background:white;
+float:right;
+margin-top:25px;
+margin-right:50px;
+
+}
+#requestf
+{
+height:51%;
+width:100%;
+float:bottom;
+background:#BD9C8C;
+}
+/*VIEW PROPOSAL PAGE */
+#wrapper3 { 
+ margin: 0 auto;
+ width: 1100px;
+}
+#leftcolumn3{ 
+ color: #333;
+ border: 1px solid #ccc;
+ background: #E7DBD5;
+ margin: 10px 0px 10px 0px;
+ padding: 10px;
+ height: 100%;
+ width: 500px;
+ float: left;
+}
+#form1
+{
+float:right;
+height:100%;
+background:#F2E1F1;
+border:solid;
+position:relative;
+width:500px;
+}
+#rightcolumn3 { 
+ float: right;
+ color: #333;
+ border: 1px solid #ccc;
+ background: #F2F2E6;
+ margin: 10px 0px 10px 0px;
+ padding: 10px;
+ height: 100%;
+ width: 500px;
+ display: inline;
+ position: relative;
+}
+#requestf1
+{
+height:51%;
+width:100%;
+float:bottom;
+background:white;
+}
+/*compcurr.php*/
+#cent
+{
+width:90%;
+height:700px;
+background:white;
+float:left;
+margin-left:20px;
+margin-top:25px;
+}
